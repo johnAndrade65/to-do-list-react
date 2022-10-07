@@ -24,6 +24,9 @@ export const Cadastro = styled.header`
         & input{
             margin-right: 0.5em;
         }
+        & ::placeholder{
+            padding-left: 1.5px;
+        }
     }
 
 `;
