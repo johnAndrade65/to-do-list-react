@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
     padding: 1em;
-    background: #6c63ff;
+    background: #1C1C1C;
     width: 50vw;
     border-radius: 5px;
 
@@ -44,7 +44,7 @@ export const ListItem = styled.span`
     justify-content: space-between;
     margin-top: 0.5em;
     padding: 1em;
-    background: #519;
+    background: #363636;
     border-radius: 3px;
 
     & :where(descent-override, svg){

@@ -24,7 +24,7 @@ export default createGlobalStyle`
     }
 
     body{
-        background: #171923;
+        background: #363636;
         -webkit-font-smoothing: antialiase;
     }
 
@@ -39,12 +39,12 @@ export default createGlobalStyle`
         border-radius: 8px;
         padding: 0 16;
         background: #fff;
-        border: 2px solid #519;
+        border: 2px solid #191919;
         color: #2c2c2c;
     }
 
     input::placeholder{
-        color: #519;
+        color: #191919;
     }
 
     button{
@@ -55,6 +55,6 @@ export default createGlobalStyle`
         font-weight: 500;
         color: #fff;
         border: 0px;
-        background: #519;
+        background: #000000;
     }
 `;
